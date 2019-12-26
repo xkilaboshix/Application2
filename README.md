@@ -1,2 +1,2 @@
 # Application2
-DMM Webcamp アプリケーションを完成させよう２。
+DMM Webcamp アプリケーションを完成させよう２
